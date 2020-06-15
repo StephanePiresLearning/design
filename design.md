@@ -1,12 +1,12 @@
 # Colors 
 
-* (Coloors)[https://coolors.co]
+* [Coloors](https://coolors.co)
 
 # Drawing
 
-* (Excalidraw)[https://excalidraw.com]
+* [Excalidraw](https://excalidraw.com)
 
 # Design Tools
 
-* (Canvas)[https://www.canva.com]
-* (Figma)[https://www.figma.com]
+* [Canvas](https://www.canva.com)
+* [Figma](https://www.figma.com)
